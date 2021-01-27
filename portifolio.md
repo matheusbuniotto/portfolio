@@ -16,5 +16,5 @@
 
 ## Projetos:
 
-* Analise de Roma (Dados abertos Airbnb): http://bit.ly/Roma-airbnb
+* Análise da cidade de Roma (Dados abertos Airbnb): http://bit.ly/Roma-airbnb
 ---
