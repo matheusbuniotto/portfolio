@@ -13,6 +13,7 @@ Esse é meu portifólio de projetos na área de Análiseo de Dados e Data Scienc
 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto-96a662106/). 
 
 **Background:** Marketing
+**Roadmap de Carreira:** Analytics e Data Science aplicado a negócios.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto-96a662106/)
@@ -21,5 +22,6 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 ## Projetos:
 
-* Análise da cidade de Roma (Dados abertos Airbnb): http://bit.ly/Roma-airbnb
+* Análise da cidade de Roma: http://bit.ly/Roma-airbnb
+* Análise da criminalidade no Rio de Janeiro: em desenvolvimento...
 ---
