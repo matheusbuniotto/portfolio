@@ -6,6 +6,11 @@
 
 # Matheus Buniotto
 
+Oi, eu sou o Matheus :)
+
+Esse é meu portifólio de projetos na área de Análiseo de Dados e Data Science, uma área pela qual sou apaixonado e atualmente estou me especializando. Aqui você pode encontrar alguns projetos que desenvolvo como forma de estudo e aprimoramento de minhas habilidades. Se você é apaixonado por dados, assim como eu, aposto que vai gostar. 
+
+Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto-96a662106/). 
 
 **Background:** Marketing
 
