@@ -16,7 +16,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto-96a662106/)
-* [Medium](https://www.medium.com)
+* [Medium](https://matheus-buniotto.medium.com/)
 
 
 ## Projetos:
