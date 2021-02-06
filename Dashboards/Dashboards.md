@@ -6,7 +6,7 @@
 Projeto de estudo, com dados fictícios sobre clientes de um banco. Algumas informações coletadas são: saldo, sexo, idade, região, classificação, etc. Identidade visual baseada no banco digital Nubank.
 
 ##### Itens presentes no dashboard 
-* Filtro por Nome e filtro de classificação de saldo
+* Filtro por nome e filtro de classificação de saldo
 * Mapa de calor de região e saldo
 * Mapa regional com ArcGis
 * Comparativo de Idade/Genêro e Saldo
