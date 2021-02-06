@@ -23,7 +23,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 ## Projetos:
 
-* Análise da cidade de Roma: http://bit.ly/Roma-airbnb
+* Análise da cidade de Roma: [Projeto - Roma](https://github.com/matheusbuniotto/portifolio/blob/main/Analisando%20os%20dados%20do%20Airbnb%20em%20Roma.ipynb)
 * Análise da criminalidade no Rio de Janeiro: em desenvolvimento...
 ## Dashboards
 * Projetos para estudo: http://bit.ly/portifoliodash
