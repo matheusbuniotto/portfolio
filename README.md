@@ -25,4 +25,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 * Análise da cidade de Roma: http://bit.ly/Roma-airbnb
 * Análise da criminalidade no Rio de Janeiro: em desenvolvimento...
+## Dashboards
+* Projetos para estudo: http://bit.ly/portifoliodash
 ---
+
