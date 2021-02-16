@@ -13,3 +13,15 @@ Projeto de estudo, com dados fictícios, sobre clientes de um banco. Algumas inf
 * Evolução de saldo por idade
 * Distribuição de saldo por gênero
 * Classificação de Saldo
+
+#### Dashboard - "Plano de Saúde"
+Projeto de estudo, com dados fictícios, sobre clientes de um plano de saúde. Vemos as informações dos perfis dos usúarios e os gastos.
+
+![Dashboard-nubank](https://github.com/matheusbuniotto/portifolio/blob/main/Dashboards/dash%20saude.PNG?raw=true)
+
+##### Itens presentes no dashboard 
+* Filtro por idade, sexo e região
+* Distribuição de gastos por região e idade
+* Gráfico de distribuição de IMC, idade e sexo
+* Análise de IMC por sexo
+* IMC e idade média
