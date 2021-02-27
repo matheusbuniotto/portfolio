@@ -23,7 +23,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 ## Projetos:
 
-* Análise da cidade de Roma: [Projeto - Roma](https://github.com/matheusbuniotto/portifolio/blob/main/Analisando%20os%20dados%20do%20Airbnb%20em%20Roma.ipynb)
+* Análise da cidade de Roma: [Projeto - Roma](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Analisando%20os%20Dados%20do%20Airbnb%20Roma.ipynb)
 * Análise da criminalidade no Rio de Janeiro: [Projeto - Criminalidade no RJ](https://github.com/matheusbuniotto/portifolio/blob/main/Projects/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 * Análise Exploratória Covid-19: [Projeto - Covid-19](https://github.com/matheusbuniotto/portifolio/blob/main/Projects/Projeto_An%C3%A1lise_Covid_19.ipynb)
 * Artigo : [Análise do interesse em parques temáticos no Brasil (PT) ](https://matheus-buniotto.medium.com/o-interesse-por-parques-tem%C3%A1ticos-no-brasil-durante-a-pandemia-61982dc84e30) | [Artigo em Inglês](https://matheus-buniotto.medium.com/the-interest-in-theme-parks-in-brazil-during-a-pandemic-ffbdc17d715)
