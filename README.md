@@ -28,6 +28,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 * Análise Exploratória Covid-19: [Projeto - Covid-19](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto_Panorama_da_Covid_19.ipynb)
 * Artigo : [Análise do interesse em parques temáticos no Brasil (PT) ](https://matheus-buniotto.medium.com/o-interesse-por-parques-tem%C3%A1ticos-no-brasil-durante-a-pandemia-61982dc84e30) | [Artigo em Inglês](https://matheus-buniotto.medium.com/the-interest-in-theme-parks-in-brazil-during-a-pandemic-ffbdc17d715)
 * Projeto Machine Learning - Fraudes em cartões de crédito: [Detecção de Fraudes em cartões de crédito](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_cart%C3%B5es_de_cr%C3%A9dito_%5BMachine_Learning%5D.ipynb)
+* Projeto Machine Learning - Previsão de Churn: [Previsão de Churn](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Churn_Prediction_para_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
 ## Dashboards
 * Projetos para estudo: [Dashboards](https://github.com/matheusbuniotto/portifolio/tree/main/Dashboards)
 ---
