@@ -6,6 +6,7 @@
 
 [1]: https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/Acidentes%20BH/home.PNG?raw=true
 [2]: hhttps://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&pageName=ReportSection963661846c11d75c7999
+
 * Criação da relação entre os boletins, veículos e envolvidos.
 * Tratamento dos dados - texto, nulos, ausentes, formatação
 * Calculos e sumarizações relevantes
