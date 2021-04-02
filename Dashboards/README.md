@@ -4,6 +4,8 @@
 #### Disponível online em: -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 ![img](https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/Acidentes%20BH/home.PNG?raw=true)
 
+<iframe width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=a059f26d-93f7-41d4-8c7a-6b0453a00311&autoAuth=true&ctid=14cbd5a7-ec94-46ba-b314-cc0fc972a161&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLW5vcnRoLWV1cm9wZS1nLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
+
 * Criação da relação entre os boletins, veículos e envolvidos.
 * Tratamento dos dados - texto, nulos, ausentes, formatação
 * Calculos e sumarizações relevantes
