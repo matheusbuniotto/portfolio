@@ -18,23 +18,11 @@
 Atividade desenvolvida inicialmente como parte da formação em Gestão e Análise de dados da Puc-MG. Após os exercícios básicos resolvi desenvolver o dashboard mais completo.
 
 
-#### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
+
+### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
 Disponível online em: [Dashboard](https://public.tableau.com/views/RepresentatividadeFemininanoPrmioNobel/Painel1?:language=pt&:display_count=y&:origin=viz_share_link)
 ![image](https://user-images.githubusercontent.com/78053998/112730235-3025d800-8f0f-11eb-9dfb-0936c7004147.png)
 
-
-
-#### Dashboard - "Plano de Saúde"
-Projeto de estudo, com dados fictícios, sobre clientes de um plano de saúde. Vemos as informações dos perfis dos usúarios e os gastos.
-
-![Dashboard-saude](https://github.com/matheusbuniotto/portifolio/blob/main/Dashboards/dash%20saude.PNG?raw=true)
-
-##### Itens presentes no dashboard 
-* Filtro por idade, sexo e região
-* Distribuição de gastos por região e idade
-* Gráfico de distribuição de IMC, idade e sexo
-* Análise de IMC por sexo
-* IMC e idade média
 
 #### Dashboard - "Identidade Nubank"
 ![Dashboard-nubank](https://github.com/matheusbuniotto/portifolio/blob/main/Dashboards/Nubank.PNG?raw=true)
@@ -49,6 +37,22 @@ Projeto de estudo, com dados fictícios, sobre clientes de um banco. Algumas inf
 * Evolução de saldo por idade
 * Distribuição de saldo por gênero
 * Classificação de Saldo
+
+
+
+
+#### Dashboard - "Plano de Saúde"
+Projeto de estudo, com dados fictícios, sobre clientes de um plano de saúde. Vemos as informações dos perfis dos usúarios e os gastos.
+
+![Dashboard-saude](https://github.com/matheusbuniotto/portifolio/blob/main/Dashboards/dash%20saude.PNG?raw=true)
+
+
+##### Itens presentes no dashboard 
+* Filtro por idade, sexo e região
+* Distribuição de gastos por região e idade
+* Gráfico de distribuição de IMC, idade e sexo
+* Análise de IMC por sexo
+* IMC e idade média
 
 
 ### Dashboard - Maven Analytics Challenge - Lebron vs Jordan
