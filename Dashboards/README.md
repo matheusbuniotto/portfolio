@@ -1,16 +1,19 @@
 ## Aqui estão alguns projetos de Dashboards desenvolvidos para estudo e uso pessoal.
 
 ### Dashboard Acidentes de trânsito em Belo Horizonte - Power BI 
-##### Acesse o dashboard aqui -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+#### Acesse o dashboard aqui -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+![img](https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/Acidentes%20BH/home.PNG?raw=true)
 
+* Criação da relação entre os boletins, veículos e envolvidos.
+* Tratamento dos dados - texto, nulos, ausentes, formatação
+* Calculos e sumarizações relevantes
+* Idealização do layout
+* Criação do layout
+* Criação do dashboard Power BI
+![schema](https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/Acidentes%20BH/schema.PNG?raw=true)
+![img](https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/Acidentes%20BH/Bairros.PNG?raw=true)
 
-
-
-
-
-
-
-
+Atividade desenvolvida inicialmente como parte da formação em Gestão e Análise de dados da Puc-MG. Após os exercícios básicos resolvi desenvolver o dashboard mais completo.
 
 
 #### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
