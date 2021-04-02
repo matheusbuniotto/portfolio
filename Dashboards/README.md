@@ -1,5 +1,16 @@
 ## Aqui estão alguns projetos de Dashboards desenvolvidos para estudo e uso pessoal.
 
+### Dashboard Acidentes de trânsito em Belo Horizonte - Power BI 
+##### Acesse o dashboard aqui -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+
+
+
+
+
+
+
+
+
 
 
 #### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
