@@ -14,8 +14,6 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 **Background:** Marketing
 
-**Roadmap de Carreira:** Data Science e analytics aplicado a negócios
-
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 * [Medium](https://matheus-buniotto.medium.com/)
