@@ -39,5 +39,6 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 ## Certificado Profissional Análise de dados do Google
 [Certificado](https://www.credly.com/badges/05d3d891-c278-44e6-9fc9-52c02c864b0a/public_url)
+
 [Estudos](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification)
 
