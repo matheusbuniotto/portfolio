@@ -37,3 +37,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 * Destaque Power Bi: [Dashboard Acidentes em Belo Horizonte](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&pageName=ReportSection963661846c11d75c7999)
 ---
 
+## Certificado Profissional Análise de dados do Google
+[Certificado](https://www.credly.com/badges/05d3d891-c278-44e6-9fc9-52c02c864b0a/public_url)
+[Estudos](https://github.com/matheusbuniotto/Google-Data-Analytics-Certification)
+
