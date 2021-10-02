@@ -19,6 +19,11 @@
 
 Atividade desenvolvida inicialmente como parte da formação em Gestão e Análise de dados da Puc-MG. Após os exercícios básicos resolvi desenvolver o dashboard mais completo.
 
+### Dashboard Dados Olist - Power BI 
+#### Artigo do Projeto: 
+#### Disponível online em: -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjE4ZGFmZWUtMjUzZS00ZWQzLTlmOWMtMzIyMGNjNzRhNGY4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
+
+![Dashboard-Olist](hhttps://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/olist.JPG?raw=true)
 
 
 ### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
