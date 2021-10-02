@@ -23,7 +23,7 @@ Atividade desenvolvida inicialmente como parte da formação em Gestão e Análi
 #### Artigo do Projeto: 
 #### Disponível online em: -> [Link Power BI](https://app.powerbi.com/view?r=eyJrIjoiMjE4ZGFmZWUtMjUzZS00ZWQzLTlmOWMtMzIyMGNjNzRhNGY4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 
-![Dashboard-Olist](hhttps://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/olist.JPG?raw=true)
+![Dashboard-Olist](https://github.com/matheusbuniotto/portfolio/blob/main/Dashboards/olist.JPG?raw=true)
 
 
 ### Dashboard Representatividade Feminina no Prêmio Nobel - Tableau
