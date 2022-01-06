@@ -12,7 +12,7 @@ Esse é meu portfólio de projetos na área de Análise de Dados e Data Science,
 
 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
-**Background:** Marketing
+**Background:** Marketing / Mídia
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
