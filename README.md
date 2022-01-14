@@ -33,6 +33,8 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 * Projeto Machine Learning - Análise de Risco de Crédito: [Risco de Crédito](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto%20Risco%20de%20Cr%C3%A9dito.ipynb) | [Artigo](https://matheus-buniotto.medium.com/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-com-machine-learning-e000d26ab30b)
 
+* Usando AutoML para previsão de cancelamento e demanda em hotelaria: [Artigo] (https://matheus-buniotto.medium.com/usando-automl-para-previs%C3%A3o-de-demanda-e-cancelamento-de-hospedagem-hotel-e-resort-f2ac289ec7ac)
+
 * Projeto Titanic - Visualização de Dados com Seaborn: [Titanic](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto%20Titanic%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20e%20Machine%20Learning.ipynb) (em desenvolvimento)
 
  
