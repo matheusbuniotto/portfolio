@@ -49,6 +49,8 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 ## Certificados Google
 Google Analytics Individual Qualification - [Visualizar](https://skillshop.exceedlms.com/student/award/X8MGeFYAgfFAxAwh9VRYouE3)
+
 Google Ads Search Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/Phx2B8ax33YzG5qUFc5oFotQ)
+
 Google Ads Measurement Certification - [Visualizar](https://skillshop.exceedlms.com/student/award/922AsswB5EHDkwasUtVWngtk)
 
