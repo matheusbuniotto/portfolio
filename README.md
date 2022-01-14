@@ -29,7 +29,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 * Artigo : [Análise do interesse em parques temáticos no Brasil (PT) ](https://matheus-buniotto.medium.com/o-interesse-por-parques-tem%C3%A1ticos-no-brasil-durante-a-pandemia-61982dc84e30) | [Artigo em Inglês](https://matheus-buniotto.medium.com/the-interest-in-theme-parks-in-brazil-during-a-pandemic-ffbdc17d715)
 
 * Projeto Machine Learning - Fraudes em cartões de crédito: [Detecção de Fraudes em cartões de crédito](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto_Detec%C3%A7%C3%A3o_de_Fraudes_em_cart%C3%B5es_de_cr%C3%A9dito_%5BMachine_Learning%5D.ipynb) | [Artigo do Projeto](https://matheus-buniotto.medium.com/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-com-machine-learning-e000d26ab30b)
-* Projeto Machine Learning - Previsão de Churn: [Previsão de Churn](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Churn_Prediction_para_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb)
+* Projeto Machine Learning - Previsão de Churn: [Previsão de Churn](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Churn_Prediction_para_empresa_de_Telecomunica%C3%A7%C3%B5es.ipynb) | [Artigo](https://matheus-buniotto.medium.com/projeto-churn-rate-prediction-1d2b21067b42)
 
 * Projeto Machine Learning - Análise de Risco de Crédito: [Risco de Crédito](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto%20Risco%20de%20Cr%C3%A9dito.ipynb) | [Artigo](https://matheus-buniotto.medium.com/detec%C3%A7%C3%A3o-de-fraudes-em-cart%C3%B5es-de-cr%C3%A9dito-com-machine-learning-e000d26ab30b)
 
@@ -37,7 +37,7 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
  
 ## Dashboards
-* Projeto Olist - TCC: 
+* Projeto Olist - TCC: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE4ZGFmZWUtMjUzZS00ZWQzLTlmOWMtMzIyMGNjNzRhNGY4IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9)
 * Projetos para estudo: [Dashboards](https://github.com/matheusbuniotto/portifolio/tree/main/Dashboards)
 * Destaque Power Bi: [Dashboard Acidentes em Belo Horizonte](https://app.powerbi.com/view?r=eyJrIjoiOWYxNzliZDgtMjZjZC00NjhkLWJjNTQtNTFlYTM0NGM2OTAxIiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9&pageName=ReportSection963661846c11d75c7999)
 ---
