@@ -8,11 +8,11 @@
 
 Oi, eu sou o Matheus :)
 
-Esse é meu portfólio de projetos na área de Análise de Dados e Data Science, uma área pela qual sou apaixonado e atualmente estou me especializando. Aqui, você pode encontrar alguns projetos desenvolvidos como forma de estudo e aprimoramento de minhas habilidades. Se você é apaixonado por dados, assim como eu, aposto que vai gostar. 
+Esse é meu portfólio de projetos na área de Análise de Dados e Data Science, uma área pela qual sou apaixonado e curto fazer alguns projetos no meu tempo livre. Aqui, você pode encontrar alguns projetos desenvolvidos como forma de estudo e aprimoramento de minhas habilidades, principalmente na linguagem Python. Se você é apaixonado por dados, assim como eu, vai gostar. 
 
 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
-**Background:** Marketing / Mídia
+**Background:** Marketing / Mídia / Dados
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
