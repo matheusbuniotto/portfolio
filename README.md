@@ -1,18 +1,11 @@
-[![author](https://img.shields.io/badge/author-matheusbuniotto-blue.svg)](https://www.linkedin.com/in/matheus-buniotto-96a662106/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
-
-<p align="center">
-  <img src="banner_principal.png" >
-</p>
 
 # Matheus Buniotto
 
 Oi, eu sou o Matheus :)
 
-Esse é meu portfólio de projetos na área de Análise de Dados e Data Science, uma área pela qual sou apaixonado e curto fazer alguns projetos no meu tempo livre. Aqui, você pode encontrar alguns projetos desenvolvidos como forma de estudo e aprimoramento de minhas habilidades, principalmente na linguagem Python. Se você é apaixonado por dados, assim como eu, vai gostar. 
-
 Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
 
-**Background:** Marketing / Mídia / Dados
+**Background:** Marketing / Produto / Dados
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/matheus-buniotto)
@@ -35,7 +28,8 @@ Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linke
 
 * Usando AutoML para previsão de cancelamento e demanda em hotelaria: [Artigo](https://matheus-buniotto.medium.com/usando-automl-para-previs%C3%A3o-de-demanda-e-cancelamento-de-hospedagem-hotel-e-resort-f2ac289ec7ac)
 
-* Estudo Visualização de Dados com Seaborn: [Titanic](https://github.com/matheusbuniotto/portfolio/blob/main/Projects/Projeto%20Titanic%20-%20Visualiza%C3%A7%C3%A3o%20de%20dados%20e%20Machine%20Learning.ipynb) (em desenvolvimento)
+### Data Engineering
+* ELTL Dados Olis: [Projeto de Extração, Transformação, criação de datalake e warehouse](https://github.com/matheusbuniotto/projeto_olist_eng_dados) (em desenvolvimento)
 
  
 ## Dashboards
